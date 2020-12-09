@@ -1,0 +1,70 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "info@enence.com",
+    "password": "erer",
+    "id": "a27e5f64"
+  },
+  {
+    "email": "test1@test.com",
+    "password": "enen",
+    "id": "d306716c"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "password",
+    "id": "1b1f7387"
+  },
+  {
+    "email": "test4@test.com",
+    "password": "90484a85ac0f4b50839ef52185fa0caa14dd45b9cbf44ea01c859a4f4b712832235ede55c14ea62b3bf5d48dbf2dbc7a5e596817ae2b3fc928eeddfcc0787ae0.968fbaef26b29583",
+    "id": "b248f35a"
+  },
+  {
+    "email": "test6@test.com",
+    "password": "86446db503ab81c9dd995f34fc3854bb098d8c5e81d7ee99f90ed44a07418671a4e78ed987d677a4f670d07f9fd6d01ebcb1df2a262f6245b6476e1e16df2e7d.5c3fbc77333656b2",
+    "id": "880bcfe0"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "c36534ec279af532269c1e9fe1dc0edc4ad907f3819dab5281dce63e1b1da27eb91329db4687845d6f8a8468f99a98d768ab332cc2b378947ff178b13ab18f17.a4a72b822d224022",
+    "id": "f8e42fa4"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "6fd89caf838095c5901a2f0e070f05b9537a5eb610e49099d5b34e2212d551e7d90d1821d114c019392378ff62baf055bcabe0da5d95e38d893f6fea92569d8a.5265ee1c5c5053a7",
+    "id": "1897264d"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "31d56f19243a859bf646e80ff3fca0d8583c2d5ba2168749fbc88a6b3201c25495ec5f89371424b3886388a1a23922716178af7c6a45ae3e421eb457a3872bcc.d3371815f5d2e188",
+    "id": "a87690a0"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "cfd22670827930ac708a13f47c02ec9de94b39f47fb77e0aa219e8c345debe7c000e36e4f193325be30c0db80e6cd7ff72e0526c714bda2d346fc73bbae28083.0fef454d4aa2305f",
+    "id": "55218593"
+  },
+  {
+    "email": "emails@nfq.lt",
+    "password": "60c6b18ad8429f328d5e988957fe20724684fda3e9b03cbbd4849b7befc47047144de2220ec0940be49597096a73a3b37f5de3a66ad1351dba2c4b44eb9a7d4c.f354531223ed68fb",
+    "id": "7e0b55a1"
+  },
+  {
+    "email": "@dfgdfg",
+    "password": "90ed90e232ce1156d01182484e1491fd9365a7345d00692346629fcbbc548d4a39c399d9c53f706263c2073e99f4239da1e1bf649bc50875874f809f830a88ef.013d0e1cccda19f4",
+    "id": "27dd9322"
+  },
+  {
+    "email": "testas12@test.com",
+    "password": "838c4a035a8fe9223a6b6b7ec4f540aa63a50f1b3c0be292f82af6c66fa432b582962dbf865000834da794805087a27bb1d1c791dbee5883ea07f3264bd5e717.f7a79731f4b201bb",
+    "id": "49e70e84"
+  },
+  {
+    "email": "gintare.ragelyte@nfq.lt",
+    "password": "17488d4490c763617382c4f247343994a79e26613b1f1c1a66bb9eedf6c0b3c6043be9c48c159d5f07204c212c42bfb1616092863164f8f07141afd16d9a2584.e852fdfb86b25955",
+    "id": "4f1a8e75"
+  }
+]
